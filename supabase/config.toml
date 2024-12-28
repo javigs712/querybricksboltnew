@@ -1,0 +1,4 @@
+project_id = "locwmhzldgiyyucfkryc"
+
+[functions.natural-to-sql]
+verify_jwt = false
